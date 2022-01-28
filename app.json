@@ -69,7 +69,7 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "Zebra_Ro_bot"
+         "value": "Zebra_1Robot"
       },
 
       "BOT_ID": {
@@ -129,7 +129,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "5027818994 5009839424 2139897673"
+         "value": "5009839424 5067390518 5069896386"
      },
         "ARQ_API": {
             "description": "Get this from @ARQRobot.",
@@ -148,22 +148,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "5027818994 5009839424 2139897673"
+         "value": "5009839424 5067390518 5069896386"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "5027818994 5009839424 2139897673"
+         "value": "5009839424 5067390518 5069896386"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "5027818994 5009839424 2139897673"
+         "value": "5009839424 5067390518 5069896386"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "5027818994 5009839424 2139897673"
+         "value": "5009839424 5067390518 5069896386"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
