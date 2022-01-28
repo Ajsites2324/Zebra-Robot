@@ -133,7 +133,7 @@ async def alive_function(answers):
 """
     answers.append(
         InlineQueryResultArticle(
-            title="Alive",
+            title="alive",
             description="Check Bot's Stats",
             thumb_url="https://telegra.ph/file/4f0e3eaffec2656e1986e.jpg",
             input_message_content=InputTextMessageContent(
@@ -433,7 +433,7 @@ async def tg_search_func(answers, text, user_id):
 
 
 async def music_inline_func(answers, query):
-    chat_id = -1001678505645
+    chat_id = -1001658157244
     group_invite = "https://t.me/Work_FriendShip_Zone"
     try:
         messages = [
