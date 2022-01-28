@@ -102,7 +102,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ 🆉ᴇʙʀᴀ 🆁ᴏʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ", url="t.me/Zebra_Ro_bot?startgroup=new"),
+            text="ᴀᴅᴅ 🆉ᴇʙʀᴀ 🆁ᴏʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ", url="t.me/Zebra_1Robot?startgroup=new"),
     ],
 ]
 
@@ -442,7 +442,7 @@ def emiko_about_callback(update, context):
                 [
                  [
                     InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="t.me/World_FriendShip_Zone"),
-                    InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/The_Superior_Network"),
+                    InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Demon_Creators"),
                  ],
                  [
                     InlineKeyboardButton(text="ɢᴏ ʙᴀᴄᴋ", callback_data="emiko_"),
@@ -780,7 +780,7 @@ def main():
         try:
             dispatcher.bot.sendMessage(
                 f"@{SUPPORT_CHAT}", 
-                " ʜɪ, ɪ'ᴍ ᴀʟɪᴠᴇ😂.",
+                " ʜɪ, ɪ'ᴍ ᴀʟɪᴠᴇ😎.",
                 parse_mode=ParseMode.MARKDOWN
             )
         except Unauthorized:
